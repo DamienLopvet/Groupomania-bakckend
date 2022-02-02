@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "server.js",
   "author": "",
-  "scripts":{
-  "start": "node app.js"
+  "scripts": {
+    "start": "node app.js"
   },
   "license": "ISC",
   "devDependencies": {
@@ -27,7 +27,7 @@
     "swagger-jsdoc": "^6.1.0",
     "swagger-ui-express": "^4.3.0"
   },
-  "engines":{
-    "node":"14.18.0"
+  "engines": {
+    "node": "14.18.0"
   }
 }
