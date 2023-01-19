@@ -7,7 +7,7 @@ module.exports = {
   
     DB: process.env.DB,
   
-    dialect: process.env.DIALECT,
+    dialect: mysql,
   
     pool: {
       max: 5,
