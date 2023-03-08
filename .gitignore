@@ -1,5 +1,3 @@
 /node_modules
-/attachments/*
-!attachments/.gitkeep
 .env
 /config/db.configTemp.js
